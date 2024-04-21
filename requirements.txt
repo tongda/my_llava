@@ -1,0 +1,4 @@
+einops
+transformers
+sentencepiece
+lmdeploy[all]==0.3.0
